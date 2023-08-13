@@ -1,6 +1,8 @@
 # Artifact_Simulator_Of_Genshin_Impact
 基于伯努利大数定律，模拟了原神圣遗物抽取的结果，用户可选择输入套装、部位、主词条、副词条来模拟对应圣遗物的抽取次数、所需体力、天数等信息。
 
+UI还在开发中。
+
 使用方法：
 
 运行main.m，在calcDrawsForSpecificItem函数输入前4个参数：
